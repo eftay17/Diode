@@ -71,7 +71,7 @@ p0xUHtufRS_tMNd9XRvnxbMmXPtOyRbPrQLnLN4j3VNsDhwSrpRYpwbnhMZ2
 
 ### 🔹 10. Aşağıdaki katılım kodunu resimde görünen registrar kanalına atıyoruz. Bu kodu girdikten sonra kabul edip etmediğinizi soracak I Accept yazarak devam edebilirsiniz. Kabul ettikten sonra size özel bir katılım kodu verecek siz de o kodla başkalarını davet edebileceksiniz.
 ```
-GJTCTZTFRAPNVNJXSXGE
+RIUIADVQAOWESVTUCDLN
 ```
 
 ![image](https://github.com/user-attachments/assets/52afa1d9-fc94-423b-89dd-64cab864e279)
